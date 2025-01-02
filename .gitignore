@@ -1,2 +1,7 @@
 /.venv/
 /shape/
+/tif/CLCD_v01_2023_albert_yunnan.tif
+/tif/CLCD_v01_2023_albert_yunnan.tif.aux.xml
+/tif/CLCD_v01_2023_albert_yunnan.tif.vat.dbf
+/tif/CLCD_v01_2023_albert_yunnan.tif.vat.cpg
+/zonal_statistics.csv
